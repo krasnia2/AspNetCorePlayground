@@ -1,0 +1,126 @@
+2020-03-27T20:38:37.997+00:00 [Info] Projector started with command line: [/opt/couchbase/bin/projector --httpsPort=9999 --certFile=/opt/couchbase/var/lib/couchbase/config/memcached-cert.pem --keyFile=/opt/couchbase/var/lib/couchbase/config/memcached-key.pem -kvaddrs=127.0.0.1:11210 -adminport=:9999 -diagDir=/opt/couchbase/var/lib/couchbase/crash -ipv6=false 127.0.0.1:8091]
+2020-03-27T20:38:37.997+00:00 [Info] Parsing the args
+2020-03-27T20:38:37.998+00:00 [Info] uid: 1000; gid: 1000; hostname: 657aaec2d0dc
+2020-03-27T20:38:37.998+00:00 [Info] amd64 linux; cpus: 2; GOMAXPROCS: 2; version: go1.11.6
+2020-03-27T20:38:38.006+00:00 [Info] StatsManager: Stats logging interval set to: 60 seconds
+2020-03-27T20:38:38.006+00:00 [Info] StatsManager: vbseqnos logging interval set to: 300 seconds
+2020-03-27T20:38:38.006+00:00 [Info] StatsManager: eval stats logging interval set to: 300 seconds
+2020-03-27T20:38:38.006+00:00 [Info] Projector CPU set at 400
+2020-03-27T20:38:38.011+00:00 [Info]  changing GOGC percentage from 100 to 100
+2020-03-27T20:38:38.012+00:00 [Info]  memcachedTimeout set to 120
+2020-03-27T20:38:38.012+00:00 [Info] amd64 linux; cpus: 2; GOMAXPROCS: 4; version: go1.11.6
+2020-03-27T20:38:38.032+00:00 [Info] Recieve security change notification. code 3
+2020-03-27T20:38:38.032+00:00 [Info] TLS config refreshed successfully
+2020-03-27T20:38:38.041+00:00 [Info] Certificate refreshed successfully
+2020-03-27T20:38:38.041+00:00 [Info] Encryption config refresh successfully.   Encryption enabled=false
+2020-03-27T20:38:38.041+00:00 [Info] security context:  encryptLocalHost true Local IP's: map[127.0.0.1:true 192.168.80.2:true]
+2020-03-27T20:38:38.056+00:00 [Info] security context initialized
+2020-03-27T20:38:38.056+00:00 [Info] security port mapping updated : map[8093:18093 9102:19102 9103:9103 9105:9105 9999:9999 11210:11207 9100:9100 9101:9101 9104:9104]
+2020-03-27T20:38:38.056+00:00 [Info] PROJ[:9999] changing GOGC percentage from 100 to 100
+2020-03-27T20:38:38.056+00:00 [Info] PROJ[:9999] started ...
+2020-03-27T20:38:38.056+00:00 [Info] pram[:9999] registered /adminport/vbmapRequest
+2020-03-27T20:38:38.056+00:00 [Info] pram[:9999] registered /adminport/failoverLogRequest
+2020-03-27T20:38:38.056+00:00 [Info] pram[:9999] registered /adminport/mutationTopicRequest
+2020-03-27T20:38:38.056+00:00 [Info] pram[:9999] registered /adminport/restartVbucketsRequest
+2020-03-27T20:38:38.056+00:00 [Info] pram[:9999] registered /adminport/shutdownVbucketsRequest
+2020-03-27T20:38:38.056+00:00 [Info] pram[:9999] registered /adminport/addBucketsRequest
+2020-03-27T20:38:38.056+00:00 [Info] pram[:9999] registered /adminport/delBucketsRequest
+2020-03-27T20:38:38.056+00:00 [Info] pram[:9999] registered /adminport/addInstancesRequest
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered /adminport/delInstancesRequest
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered /adminport/repairEndpointsRequest
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered /adminport/shutdownTopicRequest
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered /adminport/stats
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered handler-func /stats
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered handler-func /settings
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered handler-func /debug/pprof
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered handler-func /debug/pprof/block
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered handler-func /debug/pprof/goroutine
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered handler-func /debug/pprof/heap
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered handler-func /debug/pprof/threadcreate
+2020-03-27T20:38:38.062+00:00 [Info] pram[:9999] registered handler-func /debug/pprof/profile
+2020-03-27T20:38:38.063+00:00 [Info] pram[:9999] starting ...
+2020-03-27T20:38:38.065+00:00 [Info] MSAT starting with 60000 tick ...
+2020-03-27T20:38:38.070+00:00 [Info] New settings received: 
+{"indexer.settings.compaction.days_of_week":"Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday","indexer.settings.compaction.interval":"00:00,00:00","indexer.settings.persisted_snapshot.interval":5000,"indexer.settings.log_level":"info","indexer.settings.compaction.compaction_mode":"circular","indexer.settings.compaction.min_frag":30,"indexer.settings.inmemory_snapshot.interval":200,"indexer.settings.max_cpu_percent":0,"indexer.settings.storage_mode":"plasma","indexer.settings.recovery.max_rollbacks":2,"indexer.settings.memory_quota":536870912,"indexer.settings.compaction.abort_exceed_interval":false}
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings notifier from metakv
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.memProfFname will updated to ``
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.plasma.optional.min_frag will updated to `20`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.check_period will updated to `30`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.min_frag will updated to `30`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.recovery.max_rollbacks will updated to `2`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.wal_size will updated to `4096`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.plasma.optional.quota will updated to `25`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.memProfile will updated to `false`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.memory_quota will updated to `536870912`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.moi.debug will updated to `false`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.persisted_snapshot_init_build.fdb.interval will updated to `5000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.max_writer_lock_prob will updated to `20`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.allow_large_keys will updated to `true`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.statsLogDumpInterval will updated to `60`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.fast_flush_mode will updated to `true`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.storage_mode.disable_upgrade will updated to `false`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.moi.recovery.max_rollbacks will updated to `2`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.enable_corrupt_index_backup will updated to `false`
+2020-03-27T20:38:38.070+00:00 [Warn] PROJ[:9999] immutable settings queryport.client.settings.poolOverflow cannot be update to `30`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.abort_exceed_interval will updated to `false`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.cpuProfFname will updated to ``
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.moi.persistence_threads will updated to `1`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.persisted_snapshot.moi.interval will updated to `600000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.persisted_snapshot.interval will updated to `5000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.largeSnapshotThreshold will updated to `200`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.corrupt_index_num_backups will updated to `1`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.persisted_snapshot_init_build.interval will updated to `5000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.log_level will updated to `info`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.bufferPoolBlockSize will updated to `16384`
+2020-03-27T20:38:38.070+00:00 [Warn] PROJ[:9999] immutable settings queryport.client.settings.minPoolSizeWM cannot be update to `1000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.min_size will updated to `524288000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.persisted_snapshot.fdb.interval will updated to `5000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.scan_getseqnos_retries will updated to `30`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.num_replica will updated to `0`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.days_of_week will updated to `Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.max_seckey_size will updated to `4608`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.smallSnapshotThreshold will updated to `30`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.moi.recovery_threads will updated to `2`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.inmemory_snapshot.interval will updated to `200`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.max_cpu_percent will updated to `0`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.sliceBufSize will updated to `50000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.compaction_mode will updated to `circular`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.plasma.recovery.max_rollbacks will updated to `2`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.inmemory_snapshot.fdb.interval will updated to `200`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings projector.settings.log_level will updated to `info`
+2020-03-27T20:38:38.070+00:00 [Warn] PROJ[:9999] immutable settings queryport.client.settings.poolSize cannot be update to `5000`
+2020-03-27T20:38:38.070+00:00 [Warn] PROJ[:9999] immutable settings indexer.settings.scan_timeout cannot be update to `120000`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.inmemory_snapshot.moi.interval will updated to `10`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.maxVbQueueLength will updated to `0`
+2020-03-27T20:38:38.070+00:00 [Warn] PROJ[:9999] immutable settings queryport.client.settings.relConnBatchSize cannot be update to `100`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.max_array_seckey_size will updated to `10240`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings queryport.client.settings.backfillLimit will updated to `5120`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.gc_percent will updated to `100`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.storage_mode will updated to `plasma`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.plasma.optional.decrement will updated to `5`
+2020-03-27T20:38:38.070+00:00 [Warn] PROJ[:9999] immutable settings indexer.settings.send_buffer_size cannot be update to `1024`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.cpuProfile will updated to `false`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.plasma.manual will updated to `false`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.compaction.interval will updated to `00:00,00:00`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.minVbQueueLength will updated to `250`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.build.batch_size will updated to `5`
+2020-03-27T20:38:38.070+00:00 [Info] PROJ[:9999] settings indexer.settings.persisted_snapshot_init_build.moi.interval will updated to `600000`
+2020-03-27T20:38:38.070+00:00 [Info] amd64 linux; cpus: 2; GOMAXPROCS: 4; version: go1.11.6
+2020-03-27T20:38:38.155+00:00 [Info] pram[:9999] Request "/adminport/shutdownTopicRequest"
+2020-03-27T20:38:38.155+00:00 [Info] PROJ[:9999] ##1 doShutdownTopic() "MAINT_STREAM_TOPIC_60a6bc3db77e6c7b91c556140dcfec71"
+2020-03-27T20:38:38.155+00:00 [Error] PROJ[:9999] ##1 acquireFeed(): projector.topicMissing
+2020-03-27T20:38:38.155+00:00 [Info] PROJ[:9999] ##1 doShutdownTopic() returns ...
+2020-03-27T20:38:38.161+00:00 [Info] pram[:9999] Request "/adminport/shutdownTopicRequest"
+2020-03-27T20:38:38.161+00:00 [Info] PROJ[:9999] ##2 doShutdownTopic() "INIT_STREAM_TOPIC_60a6bc3db77e6c7b91c556140dcfec71"
+2020-03-27T20:38:38.161+00:00 [Error] PROJ[:9999] ##2 acquireFeed(): projector.topicMissing
+2020-03-27T20:38:38.161+00:00 [Info] PROJ[:9999] ##2 doShutdownTopic() returns ...
+2020-03-27T20:39:38.065+00:00 [Info] memstats {"Alloc":2548464, "TotalAlloc":3154816, "Sys":72022264, "Lookups":0, "Mallocs":7799,"Frees":3642, "HeapAlloc":2548464, "HeapSys":66355200, "HeapIdle":62570496, "HeapInuse":3784704,"HeapReleased":0, "HeapObjects":4157,"GCSys":2371584, "LastGC":1585341518062795652,"PauseTotalNs":4407430, "PauseNs":[4407430], "NumGC":1}
+2020-03-27T20:40:38.065+00:00 [Info] memstats {"Alloc":2550936, "TotalAlloc":3157288, "Sys":72022264, "Lookups":0, "Mallocs":7832,"Frees":3650, "HeapAlloc":2550936, "HeapSys":66387968, "HeapIdle":62603264, "HeapInuse":3784704,"HeapReleased":0, "HeapObjects":4182,"GCSys":2371584, "LastGC":1585341518062795652,"PauseTotalNs":4407430, "PauseNs":[], "NumGC":1}
+2020-03-27T20:41:38.065+00:00 [Info] memstats {"Alloc":2336120, "TotalAlloc":3158560, "Sys":72022264, "Lookups":0, "Mallocs":7853,"Frees":4908, "HeapAlloc":2336120, "HeapSys":66387968, "HeapIdle":63012864, "HeapInuse":3375104,"HeapReleased":0, "HeapObjects":2945,"GCSys":2371584, "LastGC":1585341638066620317,"PauseTotalNs":5004022, "PauseNs":[596592], "NumGC":2}
+2020-03-27T20:42:38.065+00:00 [Info] memstats {"Alloc":2338712, "TotalAlloc":3161152, "Sys":72022264, "Lookups":0, "Mallocs":7883,"Frees":4916, "HeapAlloc":2338712, "HeapSys":66387968, "HeapIdle":62996480, "HeapInuse":3391488,"HeapReleased":0, "HeapObjects":2967,"GCSys":2371584, "LastGC":1585341638066620317,"PauseTotalNs":5004022, "PauseNs":[], "NumGC":2}
+2020-03-27T20:43:38.065+00:00 [Info] memstats {"Alloc":2336192, "TotalAlloc":3163256, "Sys":72022264, "Lookups":0, "Mallocs":7909,"Frees":4963, "HeapAlloc":2336192, "HeapSys":66387968, "HeapIdle":63012864, "HeapInuse":3375104,"HeapReleased":0, "HeapObjects":2946,"GCSys":2371584, "LastGC":1585341768023491556,"PauseTotalNs":5126981, "PauseNs":[122959], "NumGC":3}
+2020-03-27T20:44:38.065+00:00 [Info] memstats {"Alloc":2338800, "TotalAlloc":3165864, "Sys":72022264, "Lookups":0, "Mallocs":7939,"Frees":4971, "HeapAlloc":2338800, "HeapSys":66387968, "HeapIdle":62996480, "HeapInuse":3391488,"HeapReleased":0, "HeapObjects":2968,"GCSys":2371584, "LastGC":1585341768023491556,"PauseTotalNs":5126981, "PauseNs":[], "NumGC":3}
+2020-03-27T20:45:38.065+00:00 [Info] memstats {"Alloc":2336208, "TotalAlloc":3166752, "Sys":72022264, "Lookups":0, "Mallocs":7959,"Frees":5013, "HeapAlloc":2336208, "HeapSys":66387968, "HeapIdle":63012864, "HeapInuse":3375104,"HeapReleased":0, "HeapObjects":2946,"GCSys":2371584, "LastGC":1585341888033208356,"PauseTotalNs":5174106, "PauseNs":[47125], "NumGC":4}
+2020-03-27T20:46:38.065+00:00 [Info] memstats {"Alloc":2346496, "TotalAlloc":3177040, "Sys":72022264, "Lookups":0, "Mallocs":8155,"Frees":5060, "HeapAlloc":2346496, "HeapSys":66387968, "HeapIdle":62988288, "HeapInuse":3399680,"HeapReleased":62955520, "HeapObjects":3095,"GCSys":2371584, "LastGC":1585341888033208356,"PauseTotalNs":5174106, "PauseNs":[], "NumGC":4}
+2020-03-27T20:47:38.065+00:00 [Info] memstats {"Alloc":2336208, "TotalAlloc":3177928, "Sys":72022264, "Lookups":0, "Mallocs":8176,"Frees":5230, "HeapAlloc":2336208, "HeapSys":66387968, "HeapIdle":63012864, "HeapInuse":3375104,"HeapReleased":62955520, "HeapObjects":2946,"GCSys":2371584, "LastGC":1585342008044821043,"PauseTotalNs":5560748, "PauseNs":[386642], "NumGC":5}
+2020-03-27T20:48:38.065+00:00 [Info] memstats {"Alloc":2338800, "TotalAlloc":3180520, "Sys":72022264, "Lookups":0, "Mallocs":8206,"Frees":5238, "HeapAlloc":2338800, "HeapSys":66387968, "HeapIdle":62996480, "HeapInuse":3391488,"HeapReleased":62955520, "HeapObjects":2968,"GCSys":2371584, "LastGC":1585342008044821043,"PauseTotalNs":5560748, "PauseNs":[], "NumGC":5}

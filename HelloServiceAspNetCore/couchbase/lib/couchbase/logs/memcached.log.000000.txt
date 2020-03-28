@@ -1,0 +1,60 @@
+2020-03-27T19:45:37.842849+00:00 INFO ---------- Opening logfile: /opt/couchbase/var/lib/couchbase/logs/memcached.log.000000.txt
+2020-03-27T19:45:37.845960+00:00 INFO Couchbase version 6.5.0-4960 starting.
+2020-03-27T19:45:37.846141+00:00 INFO Breakpad enabled. Minidumps will be written to '/opt/couchbase/var/lib/couchbase/crash'
+2020-03-27T19:45:37.846630+00:00 INFO Using SLA configuration: {"COMPACT_DB":{"slow":"1800 s"},"DELETE_BUCKET":{"slow":"10 s"},"SEQNO_PERSISTENCE":{"slow":"30 s"},"comment":"Current MCBP SLA configuration","default":{"slow":"500 ms"},"version":1}
+2020-03-27T19:45:37.846632+00:00 INFO Enable standard input listener
+2020-03-27T19:45:37.846870+00:00 INFO NUMA: NOT setting memory allocation policy to 'interleave' - request failed: Operation not permitted
+2020-03-27T19:45:37.846887+00:00 INFO Loading RBAC configuration from [/opt/couchbase/var/lib/couchbase/config/memcached.rbac]
+2020-03-27T19:45:37.849182+00:00 INFO Loading error maps from [/opt/couchbase/etc/couchbase/kv/error_maps]
+2020-03-27T19:45:37.849814+00:00 INFO Starting external authentication manager
+2020-03-27T19:45:37.862347+00:00 INFO Audit descriptor 20492 changed from: disabled to: enabled
+2020-03-27T19:45:37.862358+00:00 INFO Audit descriptor 20487 changed from: disabled to: enabled
+2020-03-27T19:45:37.862359+00:00 INFO Audit descriptor 20486 changed from: disabled to: enabled
+2020-03-27T19:45:37.862359+00:00 INFO Audit descriptor 20484 changed from: disabled to: enabled
+2020-03-27T19:45:37.862360+00:00 INFO Audit descriptor 20483 changed from: disabled to: enabled
+2020-03-27T19:45:37.862360+00:00 INFO Audit descriptor 20482 changed from: disabled to: enabled
+2020-03-27T19:45:37.862360+00:00 INFO Audit descriptor 20481 changed from: disabled to: enabled
+2020-03-27T19:45:37.862361+00:00 INFO Audit descriptor 20480 changed from: disabled to: enabled
+2020-03-27T19:45:37.862368+00:00 INFO Changing logging level to 0
+2020-03-27T19:45:37.868349+00:00 INFO Create bucket "<internal>" by using "nobucket.so"
+2020-03-27T19:45:37.884717+00:00 INFO Enable port(s)
+2020-03-27T19:45:37.885825+00:00 INFO 9 Listen on IPv4: 0.0.0.0:11210
+2020-03-27T19:45:37.885892+00:00 INFO 10 Listen on IPv6: [::]:11210
+2020-03-27T19:45:37.885987+00:00 INFO 11 Listen on IPv4: 0.0.0.0:11209
+2020-03-27T19:45:37.886025+00:00 INFO 12 Listen on IPv6: [::]:11209
+2020-03-27T19:45:37.886107+00:00 INFO 13 Listen on IPv4: 0.0.0.0:11207
+2020-03-27T19:45:37.886752+00:00 INFO 14 Listen on IPv6: [::]:11207
+2020-03-27T19:45:37.886882+00:00 INFO 15 Listen on IPv4: 0.0.0.0:11206
+2020-03-27T19:45:37.886940+00:00 INFO 16 Listen on IPv6: [::]:11206
+2020-03-27T19:45:37.897176+00:00 INFO Initialization complete. Accepting clients.
+2020-03-27T19:45:37.943547+00:00 INFO 43: Client 127.0.0.1:47423 authenticated as <ud>@ns_server</ud>
+2020-03-27T19:45:37.944032+00:00 INFO 43: HELO [regular] [ 127.0.0.1:47423 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:37.944305+00:00 INFO 43: Loading RBAC configuration from [/opt/couchbase/var/lib/couchbase/config/memcached.rbac] [ 127.0.0.1:47423 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:37.948092+00:00 INFO 43: RBAC configuration updated [ 127.0.0.1:47423 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:37.997169+00:00 INFO 43: Client 127.0.0.1:47717 authenticated as <ud>@ns_server</ud>
+2020-03-27T19:45:37.997501+00:00 INFO 43: HELO [regular] [ 127.0.0.1:47717 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:38.037027+00:00 INFO 43: Client 127.0.0.1:58415 authenticated as <ud>@ns_server</ud>
+2020-03-27T19:45:38.037187+00:00 INFO 43: HELO [regular] [ 127.0.0.1:58415 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:38.037278+00:00 INFO 43: Loading RBAC configuration from [/opt/couchbase/var/lib/couchbase/config/memcached.rbac] [ 127.0.0.1:58415 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:38.039979+00:00 INFO 43: RBAC configuration updated [ 127.0.0.1:58415 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:38.134843+00:00 INFO 43: Client 127.0.0.1:45021 authenticated as <ud>@ns_server</ud>
+2020-03-27T19:45:38.135196+00:00 INFO 43: HELO [regular] [ 127.0.0.1:45021 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:38.135282+00:00 INFO Reloading config file /opt/couchbase/var/lib/couchbase/config/memcached.json
+2020-03-27T19:45:38.143026+00:00 INFO Change datatype_snappy from false to true
+2020-03-27T19:45:38.143041+00:00 INFO Change scram fallback salt from <ud>c2FsdA==</ud> to <ud>sNNaAw+JEx3BLyK2</ud>
+2020-03-27T19:45:38.558785+00:00 INFO 43: Client 127.0.0.1:56165 authenticated as <ud>@ns_server</ud>
+2020-03-27T19:45:38.558934+00:00 INFO 43: HELO [regular] [ 127.0.0.1:56165 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:38.618312+00:00 INFO 44: Client 127.0.0.1:38725 authenticated as <ud>@ns_server</ud>
+2020-03-27T19:45:38.618411+00:00 INFO 44: HELO [regular] [ 127.0.0.1:38725 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2020-03-27T19:45:38.618477+00:00 INFO 44: [ 127.0.0.1:38725 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ] Updated global cluster configuration. New revision: 5
+2020-03-27T19:45:38.618524+00:00 INFO Pushing new cluster config for bucket:[] revision:[5]
+2020-03-27T19:45:38.618992+00:00 INFO 44: [ 127.0.0.1:38725 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ] Updated global cluster configuration. New revision: 7
+2020-03-27T19:45:38.619037+00:00 INFO Pushing new cluster config for bucket:[] revision:[7]
+2020-03-27T19:47:05.365976+00:00 INFO 44: [ 127.0.0.1:38725 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ] Updated global cluster configuration. New revision: 11
+2020-03-27T19:47:05.366019+00:00 INFO Pushing new cluster config for bucket:[] revision:[11]
+2020-03-27T19:47:05.381347+00:00 INFO 44: [ 127.0.0.1:38725 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ] Updated global cluster configuration. New revision: 11
+2020-03-27T19:47:05.381397+00:00 INFO Pushing new cluster config for bucket:[] revision:[11]
+2020-03-27T19:47:05.389403+00:00 INFO 44: [ 127.0.0.1:38725 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ] Updated global cluster configuration. New revision: 11
+2020-03-27T19:47:05.389439+00:00 INFO Pushing new cluster config for bucket:[] revision:[11]
+2020-03-27T19:47:05.576726+00:00 INFO 43: Client 127.0.0.1:51953 authenticated as <ud>@ns_server</ud>
+2020-03-27T19:47:05.577179+00:00 INFO 43: HELO [regular] [ 127.0.0.1:51953 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]

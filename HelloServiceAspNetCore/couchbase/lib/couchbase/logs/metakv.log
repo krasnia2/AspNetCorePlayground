@@ -1,0 +1,169 @@
+[metakv:debug,2020-03-27T19:45:37.234Z,ns_1@cb.local:simple_store_xdcr_ckpt_data<0.374.0>:simple_store:init:114]Creating Table: xdcr_ckpt_data
+[metakv:debug,2020-03-27T19:45:37.598Z,ns_1@cb.local:simple_store_testconditions<0.482.0>:simple_store:init:114]Creating Table: testconditions
+[metakv:debug,2020-03-27T19:45:38.270Z,ns_1@cb.local:<0.405.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = false
+[metakv:debug,2020-03-27T19:45:38.272Z,ns_1@cb.local:<0.405.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = false
+[metakv:debug,2020-03-27T19:45:38.276Z,ns_1@cb.local:<0.405.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /replicationSpec/. Continuous = false
+[metakv:debug,2020-03-27T19:45:38.296Z,ns_1@cb.local:<0.407.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /GlobalConfiguration/. Continuous = true
+[metakv:debug,2020-03-27T19:45:39.297Z,ns_1@cb.local:<0.408.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /V2InternalSettings/. Continuous = true
+[metakv:debug,2020-03-27T19:45:40.303Z,ns_1@cb.local:<0.696.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = true
+[metakv:debug,2020-03-27T19:45:41.298Z,ns_1@cb.local:<0.418.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /replicationSpec/. Continuous = true
+[metakv:debug,2020-03-27T20:03:36.759Z,ns_1@127.0.0.1:simple_store_xdcr_ckpt_data<0.360.0>:simple_store:init:114]Creating Table: xdcr_ckpt_data
+[metakv:debug,2020-03-27T20:03:37.158Z,ns_1@127.0.0.1:simple_store_testconditions<0.468.0>:simple_store:init:114]Creating Table: testconditions
+[metakv:debug,2020-03-27T20:03:37.907Z,ns_1@127.0.0.1:<0.385.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = false
+[metakv:debug,2020-03-27T20:03:37.912Z,ns_1@127.0.0.1:<0.385.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = false
+[metakv:debug,2020-03-27T20:03:37.915Z,ns_1@127.0.0.1:<0.385.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /replicationSpec/. Continuous = false
+[metakv:debug,2020-03-27T20:03:37.973Z,ns_1@127.0.0.1:<0.387.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /GlobalConfiguration/. Continuous = true
+[metakv:debug,2020-03-27T20:03:38.969Z,ns_1@127.0.0.1:<0.460.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /V2InternalSettings/. Continuous = true
+[metakv:debug,2020-03-27T20:03:39.969Z,ns_1@127.0.0.1:<0.389.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = true
+[metakv:debug,2020-03-27T20:03:40.975Z,ns_1@127.0.0.1:<0.500.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /replicationSpec/. Continuous = true
+[metakv:debug,2020-03-27T20:37:42.105Z,ns_1@127.0.0.1:simple_store_xdcr_ckpt_data<0.358.0>:simple_store:init:114]Creating Table: xdcr_ckpt_data
+[metakv:debug,2020-03-27T20:37:42.269Z,ns_1@127.0.0.1:simple_store_testconditions<0.466.0>:simple_store:init:114]Creating Table: testconditions
+[metakv:debug,2020-03-27T20:37:42.647Z,ns_1@127.0.0.1:<0.406.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = false
+[metakv:debug,2020-03-27T20:37:42.648Z,ns_1@127.0.0.1:<0.406.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = false
+[metakv:debug,2020-03-27T20:37:42.650Z,ns_1@127.0.0.1:<0.406.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /replicationSpec/. Continuous = false
+[metakv:debug,2020-03-27T20:37:42.663Z,ns_1@127.0.0.1:<0.408.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /GlobalConfiguration/. Continuous = true
+[metakv:debug,2020-03-27T20:37:43.665Z,ns_1@127.0.0.1:<0.409.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /V2InternalSettings/. Continuous = true
+[metakv:debug,2020-03-27T20:37:44.665Z,ns_1@127.0.0.1:<0.615.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /remoteCluster/. Continuous = true
+[metakv:debug,2020-03-27T20:37:45.666Z,ns_1@127.0.0.1:<0.415.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /replicationSpec/. Continuous = true
+[metakv:debug,2020-03-27T20:38:37.920Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /. Continuous = true
+[metakv:debug,2020-03-27T20:38:37.920Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /indexing/settings/config rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhC24FAE3g8tcOag==
+[metakv:debug,2020-03-27T20:38:37.920Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /eventing/settings/config rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAOHT8tcOag==
+[metakv:debug,2020-03-27T20:38:37.920Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /query/settings/config rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAm4FAOHT8tcOag==
+[metakv:debug,2020-03-27T20:38:38.069Z,ns_1@127.0.0.1:<0.1110.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/settings/. Continuous = true
+[metakv:debug,2020-03-27T20:38:38.070Z,ns_1@127.0.0.1:<0.1110.0>:menelaus_metakv:output_kv:166]Sent /indexing/settings/config rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhC24FAE3g8tcOag==
+[metakv:debug,2020-03-27T20:38:38.198Z,ns_1@127.0.0.1:<0.1113.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/ddl/commandToken/. Continuous = true
+[metakv:debug,2020-03-27T20:38:38.231Z,ns_1@127.0.0.1:<0.1863.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/ddl/commandToken/. Continuous = true
+[metakv:debug,2020-03-27T20:38:38.232Z,ns_1@127.0.0.1:<0.1867.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = true
+[metakv:debug,2020-03-27T20:38:38.240Z,ns_1@127.0.0.1:<0.1861.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/ddl/commandToken/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.230Z,ns_1@127.0.0.1:<0.1869.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.230Z,ns_1@127.0.0.1:<0.1872.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.231Z,ns_1@127.0.0.1:<0.1869.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-known/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.235Z,ns_1@127.0.0.1:<0.1872.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.235Z,ns_1@127.0.0.1:<0.1874.0>:menelaus_metakv:handle_mutate:89]Updated <<"/fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:39.235Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.239Z,ns_1@127.0.0.1:<0.1874.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.247Z,ns_1@127.0.0.1:<0.1872.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.247Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.247Z,ns_1@127.0.0.1:<0.1879.0>:menelaus_metakv:handle_mutate:89]Updated <<"/fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:39.311Z,ns_1@127.0.0.1:<0.1884.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.311Z,ns_1@127.0.0.1:<0.1884.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.316Z,ns_1@127.0.0.1:<0.1893.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.316Z,ns_1@127.0.0.1:<0.1893.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.317Z,ns_1@127.0.0.1:<0.1893.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.319Z,ns_1@127.0.0.1:<0.1872.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/version rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.319Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/version rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.319Z,ns_1@127.0.0.1:<0.1919.0>:menelaus_metakv:handle_mutate:89]Updated <<"/fts/cbgt/cfg/version">>. Elapsed time:1 ms.
+[metakv:debug,2020-03-27T20:38:39.328Z,ns_1@127.0.0.1:<0.1919.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-known/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.329Z,ns_1@127.0.0.1:<0.1919.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.329Z,ns_1@127.0.0.1:<0.1919.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.330Z,ns_1@127.0.0.1:<0.1919.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.335Z,ns_1@127.0.0.1:<0.1928.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.335Z,ns_1@127.0.0.1:<0.1928.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.342Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-known/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.343Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.345Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.346Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.347Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.347Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.349Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-known/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.349Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.350Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.350Z,ns_1@127.0.0.1:<0.1934.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.353Z,ns_1@127.0.0.1:<0.1937.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-known/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.354Z,ns_1@127.0.0.1:<0.1937.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.354Z,ns_1@127.0.0.1:<0.1937.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:39.354Z,ns_1@127.0.0.1:<0.1937.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.497Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /eventing/settings/config rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAm4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.497Z,ns_1@127.0.0.1:<0.1943.0>:menelaus_metakv:handle_mutate:89]Updated <<"/eventing/settings/config">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:39.506Z,ns_1@127.0.0.1:<0.1943.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/debugger/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.511Z,ns_1@127.0.0.1:<0.1946.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/tempApps/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.512Z,ns_1@127.0.0.1:<0.1945.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/checksum/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.513Z,ns_1@127.0.0.1:<0.1959.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/retry/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.513Z,ns_1@127.0.0.1:<0.1947.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/appsettings/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.513Z,ns_1@127.0.0.1:<0.1958.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/settings/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.513Z,ns_1@127.0.0.1:<0.1948.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/checksum/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.513Z,ns_1@127.0.0.1:<0.1954.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/appsettings/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.513Z,ns_1@127.0.0.1:<0.1957.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/rebalanceToken/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.513Z,ns_1@127.0.0.1:<0.1958.0>:menelaus_metakv:output_kv:166]Sent /eventing/settings/config rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAm4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.698Z,ns_1@127.0.0.1:<0.1964.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.699Z,ns_1@127.0.0.1:<0.1964.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/version rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.699Z,ns_1@127.0.0.1:<0.1964.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.700Z,ns_1@127.0.0.1:<0.1964.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.716Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /query/dictionary_cache/counter rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.716Z,ns_1@127.0.0.1:<0.1966.0>:menelaus_metakv:handle_mutate:89]Updated <<"/query/dictionary_cache/counter">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:39.722Z,ns_1@127.0.0.1:<0.1966.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /query/dictionary_cache/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.723Z,ns_1@127.0.0.1:<0.1966.0>:menelaus_metakv:output_kv:166]Sent /query/dictionary_cache/counter rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.750Z,ns_1@127.0.0.1:<0.1967.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /query/settings/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.750Z,ns_1@127.0.0.1:<0.1967.0>:menelaus_metakv:output_kv:166]Sent /query/settings/config rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAm4FAOHT8tcOag==
+[metakv:debug,2020-03-27T20:38:39.771Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /query/functions_cache/counter rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.772Z,ns_1@127.0.0.1:<0.1968.0>:menelaus_metakv:handle_mutate:89]Updated <<"/query/functions_cache/counter">>. Elapsed time:1 ms.
+[metakv:debug,2020-03-27T20:38:39.773Z,ns_1@127.0.0.1:<0.1968.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /query/functions_cache/. Continuous = true
+[metakv:debug,2020-03-27T20:38:39.774Z,ns_1@127.0.0.1:<0.1968.0>:menelaus_metakv:output_kv:166]Sent /query/functions_cache/counter rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:39.780Z,ns_1@127.0.0.1:<0.1969.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /js-evaluator/libraries/. Continuous = true
+[metakv:debug,2020-03-27T20:38:40.501Z,ns_1@127.0.0.1:<0.1989.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:40.501Z,ns_1@127.0.0.1:<0.1989.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:40.502Z,ns_1@127.0.0.1:<0.1989.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-known/. Continuous = false
+[metakv:debug,2020-03-27T20:38:40.502Z,ns_1@127.0.0.1:<0.1989.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:40.503Z,ns_1@127.0.0.1:<0.1989.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:40.503Z,ns_1@127.0.0.1:<0.1989.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.529Z,ns_1@127.0.0.1:<0.1997.0>:menelaus_metakv:handle_mutate:89]Updated <<"/eventing/config/keepNodes">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:42.529Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /eventing/config/keepNodes rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAFLg8tcOag==
+[metakv:debug,2020-03-27T20:38:42.530Z,ns_1@127.0.0.1:<0.1997.0>:menelaus_metakv:handle_recursive_delete:119]handle_recursive_delete_post for <<"/eventing/rebalanceToken/">>
+[metakv:debug,2020-03-27T20:38:42.531Z,ns_1@127.0.0.1:<0.1997.0>:menelaus_metakv:handle_recursive_delete:122]Recursively deleted children of <<"/eventing/rebalanceToken/">>
+[metakv:debug,2020-03-27T20:38:42.533Z,ns_1@127.0.0.1:<0.1957.0>:menelaus_metakv:output_kv:166]Sent /eventing/rebalanceToken/bff810e6ee2f82b0d6857f0eb9a43d83 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAFLg8tcOag==
+[metakv:debug,2020-03-27T20:38:42.533Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /eventing/rebalanceToken/bff810e6ee2f82b0d6857f0eb9a43d83 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAFLg8tcOag==
+[metakv:debug,2020-03-27T20:38:42.533Z,ns_1@127.0.0.1:<0.1997.0>:menelaus_metakv:handle_mutate:89]Updated <<"/eventing/rebalanceToken/bff810e6ee2f82b0d6857f0eb9a43d83">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:42.540Z,ns_1@127.0.0.1:<0.1997.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /eventing/apps/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.546Z,ns_1@127.0.0.1:<0.2001.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.546Z,ns_1@127.0.0.1:<0.2001.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.550Z,ns_1@127.0.0.1:<0.2001.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.550Z,ns_1@127.0.0.1:<0.2001.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.555Z,ns_1@127.0.0.1:<0.1999.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.555Z,ns_1@127.0.0.1:<0.1999.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.559Z,ns_1@127.0.0.1:<0.2008.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.559Z,ns_1@127.0.0.1:<0.2008.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.561Z,ns_1@127.0.0.1:<0.2008.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-known/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.561Z,ns_1@127.0.0.1:<0.2008.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.562Z,ns_1@127.0.0.1:<0.2008.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.562Z,ns_1@127.0.0.1:<0.2008.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.574Z,ns_1@127.0.0.1:<0.2018.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-known/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.575Z,ns_1@127.0.0.1:<0.2018.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.577Z,ns_1@127.0.0.1:<0.2018.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.577Z,ns_1@127.0.0.1:<0.2018.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.586Z,ns_1@127.0.0.1:<0.2035.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /fts/cbgt/cfg/nodeDefs-wanted/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.586Z,ns_1@127.0.0.1:<0.2035.0>:menelaus_metakv:output_kv:166]Sent /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71 rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAE/g8tcOag==
+[metakv:debug,2020-03-27T20:38:42.602Z,ns_1@127.0.0.1:<0.1856.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.613Z,ns_1@127.0.0.1:<0.1856.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.626Z,ns_1@127.0.0.1:<0.1864.0>:menelaus_metakv:handle_mutate:89]Updated <<"/indexing/rebalance/RebalanceToken">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:42.627Z,ns_1@127.0.0.1:<0.1867.0>:menelaus_metakv:output_kv:166]Sent /indexing/rebalance/RebalanceToken rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAFLg8tcOag==
+[metakv:debug,2020-03-27T20:38:42.627Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /indexing/rebalance/RebalanceToken rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAFLg8tcOag==
+[metakv:debug,2020-03-27T20:38:42.644Z,ns_1@127.0.0.1:<0.1864.0>:menelaus_metakv:handle_mutate:89]Updated <<"/indexing/rebalance/RebalanceToken">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:42.645Z,ns_1@127.0.0.1:<0.1867.0>:menelaus_metakv:output_kv:166]Sent /indexing/rebalance/RebalanceToken rev: null
+[metakv:debug,2020-03-27T20:38:42.645Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /indexing/rebalance/RebalanceToken rev: null
+[metakv:debug,2020-03-27T20:38:42.646Z,ns_1@127.0.0.1:<0.1864.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.706Z,ns_1@127.0.0.1:<0.1864.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/ddl/commandToken/create/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.707Z,ns_1@127.0.0.1:<0.1864.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/ddl/commandToken/delete/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.708Z,ns_1@127.0.0.1:<0.1864.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/ddl/commandToken/dropInstance/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.709Z,ns_1@127.0.0.1:<0.1864.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/ddl/commandToken/build/. Continuous = false
+[metakv:debug,2020-03-27T20:38:42.711Z,ns_1@127.0.0.1:<0.2051.0>:menelaus_metakv:handle_mutate:89]Updated <<"/indexing/info/versionToken">>. Elapsed time:0 ms.
+[metakv:debug,2020-03-27T20:38:42.712Z,ns_1@127.0.0.1:<0.411.0>:menelaus_metakv:output_kv:166]Sent /indexing/info/versionToken rev: g2wAAAABaAJtAAAAIDYwYTZiYzNkYjc3ZTZjN2I5MWM1NTYxNDBkY2ZlYzcxaAJhAW4FAFLg8tcOag==
+[metakv:debug,2020-03-27T20:39:08.215Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:39:38.217Z,ns_1@127.0.0.1:<0.2051.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:40:08.218Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:40:38.221Z,ns_1@127.0.0.1:<0.2051.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:41:08.222Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:41:38.226Z,ns_1@127.0.0.1:<0.2051.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:42:08.228Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:42:38.229Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:43:08.231Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:43:38.232Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:44:08.235Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:44:38.237Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:45:08.240Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:45:38.242Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:46:08.246Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:46:38.253Z,ns_1@127.0.0.1:<0.16484.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:47:08.255Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:47:38.259Z,ns_1@127.0.0.1:<0.16484.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:48:08.261Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false
+[metakv:debug,2020-03-27T20:48:38.264Z,ns_1@127.0.0.1:<0.2046.0>:menelaus_metakv:handle_iterate:132]Starting iteration of /indexing/rebalance/. Continuous = false

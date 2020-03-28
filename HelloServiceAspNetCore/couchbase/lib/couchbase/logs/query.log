@@ -1,0 +1,44 @@
+2020/03/27 20:38:39 cbauth: key: fts/remoteClients registered for tls config updates
+_time=2020-03-27T20:38:39.698+00:00 _level=INFO _msg= Initialization of cbauth succeeded  
+2020/03/27 20:38:39 cfg_metakv: metaKVCallback, path: /fts/cbgt/cfg/version, key: version, deletion: false
+2020/03/27 20:38:39 cfg_metakv: metaKVCallback, path: /fts/cbgt/cfg/nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71, key: nodeDefs-wanted/60a6bc3db77e6c7b91c556140dcfec71, deletion: false
+2020/03/27 20:38:39 cfg_metakv: metaKVCallback, path: /fts/cbgt/cfg/nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71, key: nodeDefs-known/60a6bc3db77e6c7b91c556140dcfec71, deletion: false
+_time=2020-03-27T20:38:39.703+00:00 _level=INFO _msg=New store created with url http://127.0.0.1:8091 
+_time=2020-03-27T20:38:39.705+00:00 _level=INFO _msg=pollEOF: About to start stdin polling 
+_time=2020-03-27T20:38:39.721+00:00 _level=INFO _msg=Unable to initialize dictionary cache monitor Cound not access dictionary cache change counter due to <nil> 
+_time=2020-03-27T20:38:39.750+00:00 _level=INFO _msg=New settings received: {"timeout":0,"n1ql-feat-ctrl":12,"max-parallelism":1,"query.settings.curl_whitelist":{"all_access":false,"allowed_urls":[],"disallowed_urls":[]},"query.settings.tmp_space_dir":"/opt/couchbase/var/lib/couchbase/tmp","completed-limit":4000,"prepared-limit":16384,"pipeline-batch":16,"pipeline-cap":512,"scan-cap":512,"loglevel":"info","completed-threshold":1000,"query.settings.tmp_space_size":5120} 
+_time=2020-03-27T20:38:39.750+00:00 _level=INFO _msg=Settings notifier from metakv 
+_time=2020-03-27T20:38:39.753+00:00 _level=INFO _msg=New Value for curl whitelist <ud>map[all_access:false allowed_urls:[] disallowed_urls:[]]</ud> 
+2020-03-27T20:38:39.754+00:00 [INFO] Using plain authentication for user <ud>@cbq-engine</ud> 
+2020-03-27T20:38:39.756+00:00 [INFO] Using plain authentication for user <ud>@cbq-engine</ud> 
+2020-03-27T20:38:39.756+00:00 [INFO] Using plain authentication for user <ud>@cbq-engine</ud> 
+2020-03-27T20:38:39.757+00:00 [INFO] Using plain authentication for user <ud>@cbq-engine</ud> 
+2020-03-27T20:38:39.758+00:00 [INFO] Using plain authentication for user <ud>@cbq-engine</ud> 
+2020/03/27 20:38:39 audit: created new audit service
+_time=2020-03-27T20:38:39.764+00:00 _level=INFO _msg=cbq-engine started datastore=http://127.0.0.1:8091 timeout=0s version=2.0.0-N1QL pipeline-batch=16 n1ql_feat_cntrl=12 loglevel=INFO servicers=8 plus-servicers=32 scan-cap=512 request-cap=256 request-size-cap=67108864 max-concurrency=2 max-index-api=4 pipeline-cap=512 
+2020-03-27T20:38:39.765+00:00 [Info] GSIC - Setting config map[query_tmpspace_dir:/opt/couchbase/var/lib/couchbase/tmp query_tmpspace_limit:5120]
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Starting audit worker 1 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=HttpEndpoint: Listen Address=[::]:8093 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Starting audit worker 2 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Starting audit settings worker 1. 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg= Certificates have been refreshed by ns server  
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg= GSI indexer settings have been updated map[query_tmpspace_limit:5120 query_tmpspace_dir:/opt/couchbase/var/lib/couchbase/tmp] 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg= n1fty indexer settings have been updated map[query_tmpspace_dir:/opt/couchbase/var/lib/couchbase/tmp query_tmpspace_limit:5120] 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for loglevel. New value is info 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for completed-limit. New value is 4000 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for prepared-limit. New value is 16384 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for completed-threshold. New value is 1000 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for timeout. New value is 0 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for n1ql-feat-ctrl. New value is 12 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for pipeline-batch. New value is 16 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for pipeline-cap. New value is 512 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for scan-cap. New value is 512 
+_time=2020-03-27T20:38:39.767+00:00 _level=INFO _msg=Query Configuration changed for max-parallelism. New value is 1 
+_time=2020-03-27T20:38:39.772+00:00 _level=INFO _msg=Unable to initialize functions cache monitor Could not access functions change counter because <nil> 
+_time=2020-03-27T20:38:39.814+00:00 _level=INFO _msg=HttpEndpoint: ListenTLS Address=[::]:18093 
+_time=2020-03-27T20:38:39.815+00:00 _level=ERROR _msg=Updating node-to-node encryption level: {EncryptData:false DisableNonSSLPorts:false} 
+2020-03-27T20:38:39.920+00:00 [INFO] a7:2:81:18:c6:d4:98:91 12334967405342419666 : Initialized isolate
+2020-03-27T20:38:39.924+00:00 [INFO] Reponse : Message:"Evaluator initialized successfully" 
+2020-03-27T20:38:39.987+00:00 [INFO] ff:31:59:e4:62:4:3a:56 6800095552438284230 : Initialized isolate
+2020-03-27T20:38:39.988+00:00 [INFO] Reponse : Message:"Evaluator initialized successfully" 
+_time=2020-03-27T20:38:40.767+00:00 _level=INFO _msg=Starting audit update stream 
